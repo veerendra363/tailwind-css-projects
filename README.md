@@ -1,5 +1,13 @@
 # tailwind-css-projects
 
+## Screenshots
+
+### 🚀 Profile Card
+<p align="center">
+  <img src="screenshots\profile-card\profile_card_view.png" width="300" />
+  <img src="screenshots\profile-card\profile_card_full_screen_view.png" width="300" />
+</p>
+
 | Stage                                 | Goals                                              | Topics to Learn                                                                                                      | Project                                                                                                               |
 | ------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **1. Basics**                         | Understand utility classes and responsive prefixes | Installing Tailwind, spacing, colors, typography, flex basics, `sm:`, `md:`, `lg:`                                   | **Personal Profile Card** – profile picture, name, bio, responsive on mobile/tablet/desktop                           |
