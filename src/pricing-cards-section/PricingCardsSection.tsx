@@ -53,7 +53,7 @@ export default function PricingCardsSection() {
             {/* Enterprise Plan Card */}
             <div className="bg-white p-6 rounded-lg shadow-md flex-1 flex flex-col items-center text-center">
                 <h3 className="text-xl font-semibold mb-4"> Enterprise Plan</h3>
-                <p className="text-3xl font-bold mb-4">$19/mo</p>
+                <p className="text-3xl font-bold mb-4">$59/mo</p>
                 <ul className="mb-6 text-gray-600 space-y-2 text-left">
                     <li className="text-green-600">✅ Basic Feature 1</li>
                     <li className="text-green-600">✅ Basic Feature 2</li>
