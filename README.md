@@ -1,9 +1,10 @@
 # Tailwind-css-projects 
 
-## 🚀 Live Demo
-Check out the live version of this project here:  
-
-[🌐 View Live Demo](https://tailwind-css-projects.vercel.app/)
+## 🌐 Live Demo
+Check out the live version of this project here
+<a href="https://tailwind-css-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+  View Live Demo
+</a>
 
 
 ## Screenshots
