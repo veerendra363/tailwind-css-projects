@@ -1,8 +1,8 @@
-import ProfileCard from './profileCard/ProfileCard'
+import LandingPage from './simple-landing-page/LandingPage'
 
 function App() {
   return (
-    <ProfileCard />
+    <LandingPage />
   )
 }
 
