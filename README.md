@@ -10,8 +10,14 @@
 
 ### 🚀 Simple Landing Page
 <p align="center">
-  <img src="screenshots/langing-page/landing_page_desktop_view.png" width="300" />
   <img src="screenshots/langing-page/landing_page_mobile_view.png" width="300" />
+  <img src="screenshots/langing-page/landing_page_desktop_view.png" width="300" />
+</p>
+
+### 🚀 Simple Landing Page
+<p align="center">
+  <img src="screenshots/pricing-card/pricing_mobile_view.png" width="300" />
+  <img src="screenshots/pricing-card/pricing_desktop_view.png" width="300" />
 </p>
 
 

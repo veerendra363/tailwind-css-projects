@@ -1,8 +1,8 @@
-import LandingPage from './simple-landing-page/LandingPage'
+import PricingCardsSection from './pricing-cards-section/PricingCardsSection'
 
 function App() {
   return (
-    <LandingPage />
+    <PricingCardsSection />
   )
 }
 
