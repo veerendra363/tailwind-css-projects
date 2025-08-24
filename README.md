@@ -16,7 +16,7 @@ Check out the live version of this project here
 </p>
 
 ### 🚀 Simple Landing Page
-<p align="center">
+<p align="center"> 
   <img src="screenshots/langing-page/landing_page_mobile_view.png" width="300" />
   <img src="screenshots/langing-page/landing_page_desktop_view.png" width="300" />
 </p>
